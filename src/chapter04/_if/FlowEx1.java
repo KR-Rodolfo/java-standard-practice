@@ -1,4 +1,4 @@
-package chapter04;
+package chapter04._if;
 
 public class FlowEx1 {
 
