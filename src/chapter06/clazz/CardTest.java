@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06.clazz;
 
 class Card {
     String kind;

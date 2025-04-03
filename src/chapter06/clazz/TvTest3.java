@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06.clazz;
 
 class Tv3 {
     String color;
