@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/src/연습장.java
 
 ### Eclipse ###
 .apt_generated
